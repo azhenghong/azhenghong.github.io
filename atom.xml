@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>孤独的dog</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://azhenghong.github.io/"/>
+  <updated>2020-04-24T07:01:34.754Z</updated>
+  <id>https://azhenghong.github.io/</id>
+  
+  <author>
+    <name>红</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>苟且的人生</title>
+    <link href="https://azhenghong.github.io/2020/04/24/gou-qie-de-ren-sheng/"/>
+    <id>https://azhenghong.github.io/2020/04/24/gou-qie-de-ren-sheng/</id>
+    <published>2020-04-24T07:01:34.000Z</published>
+    <updated>2020-04-24T07:01:34.754Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if (!el.dataset.src) { return; }
+       
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>自由的远方</title>
+    <link href="https://azhenghong.github.io/2020/04/24/zi-you-de-yuan-fang/"/>
+    <id>https://azhenghong.github.io/2020/04/24/zi-you-de-yuan-fang/</id>
+    <published>2020-04-24T06:07:02.000Z</published>
+    <updated>2020-04-24T06:07:02.640Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if (!el.dataset.src) { return; }
+       
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://azhenghong.github.io/2020/04/23/hello-world/"/>
+    <id>https://azhenghong.github.io/2020/04/23/hello-world/</id>
+    <published>2020-04-23T08:08:33.487Z</published>
+    <updated>2020-04-18T12:06:01.116Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
